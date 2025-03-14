@@ -1,0 +1,14 @@
+[Version]
+Version=6.3
+[Designs]
+counter_6bit_min=.\counter_6bit_min.adf
+[Settings]
+Active=counter_6bit_min
+[Expand]
+counter_6bit_min=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

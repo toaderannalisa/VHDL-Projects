@@ -1,0 +1,20 @@
+elbread.dll ver. 1.0.5.365 Tue May 24 18:40:34 2022
+
+
+---------------------------------------------------------------------
+Entity                 | Architecture              | Library       
+---------------------------------------------------------------------
+automat                | automat                   | counter_6bit_min
+numarator_ora_minute   | arh_numarator_ora_minute  | counter_6bit_min
+numarator_zi_luna      | arh_numarator_zi_luna     | counter_6bit_min
+numarator_temperatura  | arh_numarator_temperatura | counter_6bit_min
+---------------------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

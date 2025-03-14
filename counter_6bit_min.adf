@@ -1,0 +1,53 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=counter_6bit_min
+
+[Library]
+counter_6bit_min=.\counter_6bit_min.lib
+
+[$LibMap$]
+counter_6bit_min=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+HESPrepare=0
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=automat|automat|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+
+[Files]
+/count_temp.vhd=-1
+/numarator_timp.vhd=-1
+/numarator_data.vhd=-1
+/automat.vhd=-1
+/proiect_psn_toader_annalisa.vhd=-1
+/C:\My_Designs\PROIECT_VERIFICAT.awf=-1
+
+[Files.Data]
+.\src\count_temp.vhd=VHDL Source Code
+.\src\numarator_timp.vhd=VHDL Source Code
+.\src\numarator_data.vhd=VHDL Source Code
+.\src\automat.vhd=VHDL Source Code
+.\src\proiect_psn_toader_annalisa.vhd=VHDL Source Code
+C:\My_Designs\PROIECT_VERIFICAT.awf=Waveform File
+
